@@ -1,0 +1,10 @@
+ManagerID,ManagerName,Office,Department,YearsAsManager
+M01,Manager 1,Warsaw,Operations,3
+M02,Manager 2,Warsaw,HR,2
+M03,Manager 3,Warsaw,Finance,6
+M04,Manager 4,Krakow,Operations,5
+M05,Manager 5,Krakow,HR,5
+M06,Manager 6,Krakow,Finance,4
+M07,Manager 7,Gdansk,Operations,3
+M08,Manager 8,Gdansk,HR,10
+M09,Manager 9,Gdansk,Finance,3

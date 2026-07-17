@@ -1,0 +1,94 @@
+EmployeeID,RecruitmentSource,TimeToHire,HiringManager
+E0003,Career Page,40,Manager 2
+E0004,Agency,35,Manager 2
+E0006,Career Page,53,Manager 1
+E0013,Referral,28,Manager 2
+E0015,LinkedIn,33,Manager 3
+E0016,Referral,37,Manager 3
+E0018,Referral,35,Manager 1
+E0025,Agency,38,Manager 2
+E0027,Referral,37,Manager 2
+E0033,Agency,28,Manager 3
+E0037,Referral,24,Manager 3
+E0039,Career Page,46,Manager 1
+E0040,LinkedIn,51,Manager 1
+E0041,Career Page,48,Manager 3
+E0042,Referral,48,Manager 1
+E0043,Career Page,26,Manager 2
+E0044,LinkedIn,27,Manager 3
+E0047,Referral,22,Manager 1
+E0048,LinkedIn,20,Manager 3
+E0050,Agency,36,Manager 2
+E0054,Career Page,37,Manager 3
+E0057,Agency,38,Manager 1
+E0058,Career Page,19,Manager 3
+E0061,Career Page,19,Manager 2
+E0062,Career Page,26,Manager 2
+E0069,Career Page,27,Manager 1
+E0071,Career Page,47,Manager 1
+E0074,Career Page,26,Manager 1
+E0075,Referral,27,Manager 2
+E0077,Career Page,38,Manager 2
+E0084,Career Page,35,Manager 1
+E0086,Agency,46,Manager 2
+E0090,Agency,20,Manager 3
+E0092,LinkedIn,36,Manager 2
+E0093,Agency,23,Manager 1
+E0095,LinkedIn,49,Manager 1
+E0096,LinkedIn,40,Manager 5
+E0100,Agency,20,Manager 5
+E0102,Career Page,33,Manager 6
+E0103,Referral,22,Manager 4
+E0105,LinkedIn,22,Manager 6
+E0106,Referral,26,Manager 5
+E0107,Referral,37,Manager 5
+E0108,Career Page,31,Manager 4
+E0109,LinkedIn,28,Manager 4
+E0112,Agency,48,Manager 6
+E0114,Referral,30,Manager 4
+E0116,LinkedIn,48,Manager 4
+E0117,LinkedIn,46,Manager 5
+E0118,Agency,51,Manager 6
+E0119,Referral,37,Manager 5
+E0120,Referral,36,Manager 5
+E0122,Agency,48,Manager 5
+E0129,Agency,25,Manager 5
+E0130,Career Page,19,Manager 4
+E0132,Referral,32,Manager 6
+E0133,LinkedIn,33,Manager 6
+E0136,Agency,29,Manager 6
+E0138,Career Page,37,Manager 4
+E0139,Career Page,34,Manager 5
+E0141,Agency,47,Manager 4
+E0142,LinkedIn,44,Manager 4
+E0144,Career Page,40,Manager 5
+E0146,Career Page,20,Manager 4
+E0147,Agency,52,Manager 5
+E0148,Career Page,46,Manager 4
+E0158,LinkedIn,25,Manager 6
+E0162,Career Page,55,Manager 4
+E0164,Agency,44,Manager 5
+E0165,Agency,53,Manager 5
+E0166,LinkedIn,33,Manager 7
+E0167,Referral,38,Manager 9
+E0169,Career Page,47,Manager 7
+E0172,Referral,21,Manager 7
+E0175,LinkedIn,55,Manager 8
+E0179,Agency,33,Manager 7
+E0181,LinkedIn,49,Manager 7
+E0182,LinkedIn,48,Manager 9
+E0184,Referral,36,Manager 8
+E0186,LinkedIn,32,Manager 9
+E0187,Career Page,34,Manager 8
+E0197,LinkedIn,21,Manager 9
+E0198,LinkedIn,51,Manager 7
+E0199,Referral,42,Manager 8
+E0200,LinkedIn,49,Manager 7
+E0202,Agency,54,Manager 8
+E0204,Career Page,36,Manager 9
+E0209,Agency,30,Manager 7
+E0212,Agency,35,Manager 9
+E0215,Agency,25,Manager 8
+E0216,LinkedIn,28,Manager 8
+E0217,Career Page,37,Manager 8
+E0220,Referral,52,Manager 9
